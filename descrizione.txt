@@ -1,0 +1,2 @@
+Ciao sono pippo e mi piace il fringuello
+Ho fatto delle operazioni su Git
